@@ -16,6 +16,7 @@ The HTML file (`index.html`) consists of the following elements:
     <!-- main content of the page -->
 </body>
 </html>
+```
 
 ## JavaScript Functionality
 
