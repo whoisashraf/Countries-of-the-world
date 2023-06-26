@@ -1,6 +1,6 @@
 # Country API Practice Project
 
-This project is a practice exercise for using a Country API to retrieve and display information about different countries. The project includes HTML, CSS, and JavaScript files.
+This project is a practice exercise for using a Country API to retrieve and display information about different countries. The project includes HTML and JavaScript files.
 
 ## HTML Structure
 
