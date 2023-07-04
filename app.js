@@ -36,7 +36,7 @@ function updateUi(params) {
     container.append(div);
     div.addEventListener("click", () => {
       let popUp = document.createElement("div");
-      document.querySelector("html").style.overflow = "hidden";
+      // document.querySelector("html").style.overflow = "hidden";
       popUp.className =
         "container-fluid fixed-top top-0 w-100 h-100 card";
       popUp.innerHTML = `
