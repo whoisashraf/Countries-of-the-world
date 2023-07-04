@@ -38,7 +38,7 @@ function updateUi(params) {
       let popUp = document.createElement("div");
       document.querySelector("html").style.overflow = "hidden";
       popUp.className =
-        "container-fluid position-absolute top-0 w-100 h-100 card";
+        "container-fluid fixed-top top-0 w-100 h-100 card";
       popUp.innerHTML = `
         <div class="position-relative">
           <button class="back-btn btn bg-secondary-subtle my-5 h6">Back</button>
