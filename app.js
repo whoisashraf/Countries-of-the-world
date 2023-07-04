@@ -60,7 +60,7 @@ function updateUi(params) {
       document.querySelector("html").append(popUp);
       document.querySelector(".back-btn").addEventListener("click", () => {
         popUp.remove();
-        document.querySelector("html").style.overflow = "scroll";
+        // document.querySelector("html").style.overflow = "scroll";
       });
     });
   });
